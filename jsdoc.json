@@ -11,6 +11,9 @@
   },
   "opts": {
     "recurse": true,
-    "destination": "./docs/"
+    "destination": "./docs/",
+    "template": "./custom-template",
+    "tutorials": "./tutorials",
+    "readme": "./README.md"
   }
 }
